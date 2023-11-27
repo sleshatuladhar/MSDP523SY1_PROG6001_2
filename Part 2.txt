@@ -1,3 +1,17 @@
+
+SOFTWARE DEVELOPMENT METHODS, PROCESSES, AND TECHNIQUES
+
+OVERVIEW OF AGILE MINDSET
+
+Choosing the appropriate technique in software development is critical, with significant weight in the results, especially when developing vital platforms such as Customer Relationship Management (CRM) software for financial organisations. Agile concept proficiency is an essential component in current software development approaches. Agile values include adaptability, teamwork, client input, incremental development, and the capacity to respond quickly to changes. This concept promotes customer-focused approaches and continual growth, easily fitting into today's ever-changing markets and customer expectations.
+
+The Agile methodology has emerged as the go-to solution for project management amid the increased uncertainty, particularly in the ever-changing world of software development (Abbas et al., 2008). It's an approach designed specifically to deal with the issues caused by unpredictability in project requirements and technical landscapes. Schwaber and Sutherland (2011, p. 68) highlight Scrum, an Agile framework, emphasising its differentiating features such as team flexibility, unrestricted innovation during iterations, and an optimised model aimed to boost productivity. These characteristics highlight the essence of Agile techniques, emphasising adaptability and innovative problem-solving as critical components of project success.
+
+Studies such as those carried out by Serrador and Pinto (2015) provide compelling evidence for the efficacy of Agile techniques. Their study explicitly demonstrates how agility affects key project elements, such as stakeholder satisfaction, efficiency, and the overall perception of project success. This empirical evidence not only reinforces Agile's theoretical foundation but also emphasises its practical importance in achieving tangible, beneficial project outcomes.
+
+Embracing Agile is a way of thinking that emphasises adaptability and swift responses to change, rather than merely altering the way projects are managed. Agile becomes a useful tool for overcoming uncertainty and quickly adjusting to changing needs, eventually leading to improved project outputs, with shown success and real-world examples.
+
+
 Guidelines for Determining Scrum or Waterfall Suitability:
 Clarification of Project Requirements:
 Choosing the best software development technique, whether Scrum or Waterfall, requires careful evaluation of numerous crucial variables. To begin, the clarity of project requirements is critical. If the requirements are well-defined and unlikely to alter much, Waterfall's linear and sequential structure may be more suited. Scrum's iterative and adaptive methodology, on the other hand, allows for ongoing modifications throughout the development process if the project contains evolving or unknown needs. Waterfall may be more appropriate if the project requirements are well-defined and unlikely to alter dramatically. Scrum is ideal if the project has changing or unknown requirements since it accommodates modifications throughout the development process. .
