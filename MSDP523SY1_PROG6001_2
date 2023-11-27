@@ -26,7 +26,7 @@ The timeline shown below has been meticulously designed to enable an open, compe
 December 6: RFP released
 December 10: Deadline for Vendor Queries and Clarifications
 December 16 - 20: Engagements with Vendors for Clarifications
-December 23:  Distribution of Clarifications/Addendums
+December 23: Distribution of Clarifications/Addendums
 December 30: Proposal Submission Deadline
 January 3 - 7: Initial Evaluation and Feedback on Proposals
 January 10: Assessment and Scoring of Proposals
@@ -53,3 +53,36 @@ User Experience and Training: Intuitive interface, ease of adoption by our staff
 Cost and ROI: Competitive pricing aligned with solution value and anticipated return on investment.
 
 This facilitates a targeted and coordinated selection process by clearly outlining the primary criteria for decision-making that vendors should include in their proposals. Changes can be made in accordance with your specific company requirements.
+
+Detailed Overview:
+
+Primary Goal: The primary goal is to streamline the operation and improve the customer service across all the branches of ABB.
+
+Secondary Goal:
+
+1. Enhance customer Experience:
+   -Using CRM to take the data and manage customer profiles including contact details, records of repairs, request of services, history of purchase.
+   -Utilizing the data from the CRM for communication and other personalized services.
+
+2. Enhance inventory Management:
+   -Tracking the products available for sales or repairs and checking for their availablity across differenct branch location.
+   -Making sure that orders are automated from wholesalers whenever the inventory level reaches a threshold minimun.
+
+Budget:
+For the project the budject allocated for the entire system development, implementation and maintainance is approximately $500,000-$700,000.
+
+General Scope:
+
+1. CRM System:
+   -Intake the customer details, purchase history, repair information and details of work.
+   - Tracking the progress of repair, service request and othere logs from communication history.
+     -Assigning role based access for the staffs to update and modify the changes accross the branches.
+2. Marketing System:
+   -To collect the details of customer ABB's website should be integrated.
+   -using tools for email, social media campaigns , influence marketing, lead generation and analytics for the targeted marketing.
+3. Inventory Management:
+   - Tracking product sales, spare part stock levels and availablity across difference branches.
+   - Automaticall sending the updates and alerts whenever inventory reaches a critically low point.
+4. Reporting Dashboard:
+   - Finding a cpmprehensive understanding of the business operation using a dynamic reporting dashboard that can provide up-to-date and realtime data on CRM interaction, management of inventory , repair progress and marketing effectiveness.
+   - Generating personalized reports from anywhere to make strategic decision.
