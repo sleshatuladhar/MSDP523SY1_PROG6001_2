@@ -12,6 +12,51 @@ Studies such as those carried out by Serrador and Pinto (2015) provide compellin
 Embracing Agile is a way of thinking that emphasises adaptability and swift responses to change, rather than merely altering the way projects are managed. Agile becomes a useful tool for overcoming uncertainty and quickly adjusting to changing needs, eventually leading to improved project outputs, with shown success and real-world examples.
 
 
+SCRUM PROCESS
+
+Scrum is an iterative and incremental agile software development framework that divides work into manageable sprints. Feedback is gathered throughout the project, allowing for continuous improvement (Larcan & Basili, 2002).
+
+Key Elements of Scrum
+
+1. Product Backlog: A prioritised list of product features and functionalities.
+2. Sprint Backlog: A subset of the Product Backlog selected for development during each sprint.
+3. Scrum Team: A self-organising and cross-functional team responsible for developing the product.
+4. Scrum Master: Facilitates the Scrum process and eliminates impediments.
+5. Product Owner: Represents stakeholders and ensures product requirements are met.
+ 
+Scrum Process
+
+1. Sprint Planning: Selects items from the Product Backlog for development during the sprint.
+2. Daily Scrum: Daily team meetings for progress tracking, problem identification, and sprint plan adjustments.
+3. Sprint Review: Demonstrates completed work to stakeholders for feedback.
+4. Sprint Retrospective: Reflects on the sprint and identifies areas for improvement.
+
+(Schwaber & Sutherland, 2009)
+ 
+
+WATERFALL METHODOLOGY
+
+Waterfall is a sequential linear software development process model used for projects with well-defined requirements and a clear scope (Royce, 1970).
+
+Key Elements of Waterfall
+
+1. Requirements: A detailed list of product features and functionality.
+2. Design: A detailed plan for product implementation.
+3. Implementation: Development based on the design.
+4. Testing: Verification and validation of the product.
+5. Deployment: Release to production.
+
+Waterfall Process
+
+1. Requirements: Gathered and documented at the beginning.
+2. Design: Created based on the requirements.
+3. Implementation: Developed according to the design.
+4. Testing: Ensures product meets requirements.
+5. Deployment: Released to production.
+
+(Royce, 1970)
+
+
 Guidelines for Determining Scrum or Waterfall Suitability:
 Clarification of Project Requirements:
 Choosing the best software development technique, whether Scrum or Waterfall, requires careful evaluation of numerous crucial variables. To begin, the clarity of project requirements is critical. If the requirements are well-defined and unlikely to alter much, Waterfall's linear and sequential structure may be more suited. Scrum's iterative and adaptive methodology, on the other hand, allows for ongoing modifications throughout the development process if the project contains evolving or unknown needs. Waterfall may be more appropriate if the project requirements are well-defined and unlikely to alter dramatically. Scrum is ideal if the project has changing or unknown requirements since it accommodates modifications throughout the development process. .
