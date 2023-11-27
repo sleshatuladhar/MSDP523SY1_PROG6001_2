@@ -62,7 +62,7 @@ Secondary Goal:
 
 1. Enhance customer Experience:
    -Using CRM to take the data and manage customer profiles including contact details, records of repairs, request of services, history of purchase.
-   -Utilizing the data from the CRM for communication and other personalized services.
+   -Utilizing the data from the CRM for communication and other personalized services.I
 
 2. Enhance inventory Management:
    -Tracking the products available for sales or repairs and checking for their availablity across differenct branch location.
@@ -86,3 +86,33 @@ General Scope:
 4. Reporting Dashboard:
    - Finding a cpmprehensive understanding of the business operation using a dynamic reporting dashboard that can provide up-to-date and realtime data on CRM interaction, management of inventory , repair progress and marketing effectiveness.
    - Generating personalized reports from anywhere to make strategic decision.
+
+Time Frame:
+The projected duration from planning to full implementation of the the project is 18-22 months(March 2024 to August 2025)
+
+Business requirements:
+The requirements for the business are mentioned below:
+
+1. A customized CRM database management that can take customer informations and provides personalized interactions based on the data collected and provides recommendations.
+2. Digital Marketing Tools that is integrated with the data from CRM which can utilize the data to categorize the customers based on their preference, behaviour and the history of purchase for target marketing campaigns.
+3. A inventory Tracting tool with inter-location connectivity that can track inventory for the availablity of product and product parts across all branches.
+4. Management Reporting Dashboard to provide management with the centralized database that offer real time CRM data, progress report, performance of the marketing and progress of report.
+
+Creative/Design Requirement:
+
+1. User-Cenric Inteface Design:
+
+   - Easy Navigation: Develop a interface that is easy to navigate for both customer and the employees. Simplicity should be at top priority.
+   - Good Visual: There should be a clear visual hierarchy with effective font style,size and colours that can take user attention.
+   - Consistency across different platform: There should be consistancy in design elements and function accross different platforms i.e web,mobile etc. for a good user experience.
+
+2. Personalized Customer Interaction:
+
+   - allowing for personalized customer interaction with respect to CRM data. Display relevent or recommended information based on customer profile or interaction in the past.
+   - Create visual representations such as charts or graphs inside the CRM to help the staffs to visualize customer data easily for efficient decision making process.
+
+3. Marketing Aid Design:
+   - There should be consistency on branding elements like logos, colours and design. This can help in brand recognition.
+   - Visually engaging content should be created for marketing campaigns which can help to create ABB's brand identity and create value.
+
+Functional Requirement
