@@ -100,6 +100,8 @@ The requirements for the business are mentioned below:
 
 Creative/Design Requirement:
 
+Creative and design requirement involves several important aspect to enhance the user friendly interface and create eyecatching visual elements.
+
 1. User-Cenric Inteface Design:
 
    - Easy Navigation: Develop a interface that is easy to navigate for both customer and the employees. Simplicity should be at top priority.
@@ -115,4 +117,44 @@ Creative/Design Requirement:
    - There should be consistency on branding elements like logos, colours and design. This can help in brand recognition.
    - Visually engaging content should be created for marketing campaigns which can help to create ABB's brand identity and create value.
 
-Functional Requirement
+Functional Requirement:
+
+Functional requirement shows what the system should do to meet the needs of business and expectation of the user.
+
+1. Customer Relation Management(CRM) System:
+
+   - capture customers details including their contact details, history of purchase, repair records and other requests for the service made by them.
+   - Set us automated alerts whenever the stocks are critically low to maintain optimal level of inventory.
+
+2. Access Control Based on Role:
+
+   - There should be role based control to maintain security of data and restrict the access based on the user role inside the organization.
+
+3. Automation and Integration Capablities:
+   - Making an automated workflow for different tasks such as management of inventory, ordering and communication with the customers.
+   - Make sure that there is smooth data flow with existing ABB system for seamless integration.
+
+Content Development Needs:
+
+Content development needs of ABB's integrated system surrounds the creation, utilization and management of different types of content.
+
+1. Customer-Facing Content:
+   - Create content with detailed product specifications, price and features for the reference of customers.
+   - Educational Resources: Creating guides and tutorial along with different infographics can assist customer to understand the usage of the product along with troubleshooting and maintainence tips.
+2. Internal Operations Content:
+   - Employee Training Materials: Create different guides, modules and videos of training to help staff train on how to use the integrated system and its functionality effectively.
+   - Policy and procedure Documentation: Documentation is vital for any organization. Developing documentation with standard procedures, workflow and best practices outlines will help the employee and improve efficiency.
+
+Existing Technical Environment:
+
+Existing technical environment are the systems, infrastructures and technologies that are already in place within ABB.
+It is very important for integrating new system effectively.
+
+1. Hardware and infrastructure:
+
+   - Details of devices such as computers laptops or tablets used by users or staffs for day to day operation at ABB branches.
+   - Details about the network setups along with routers, switches and other networks configuration used by ABB in different branches.
+     -Details of servers information such as data storage system and backup solutions used by the company.
+
+2. Databases and Integrations:
+   - Information of the types of databases used to store information of customer, data of inventory and other vital datasets.
